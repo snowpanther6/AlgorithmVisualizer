@@ -5,4 +5,5 @@ Algorithm Visualizer helps you to visualise all types of Sorting Algorithms. Her
 3. Insertion Sort
 4. Merge Sort
 5. Quick Sort
+
 I was not able to visualize and implemented the Heap Sort, so if you have a better understanding of Heap Sort then you can contribute here. In future i will be adding Graph Algorithms.
